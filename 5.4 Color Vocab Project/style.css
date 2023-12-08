@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}
+
+
+.color-title[id]
+{
+    font-weight: normal;
+    
+}
+
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
